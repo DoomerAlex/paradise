@@ -1,0 +1,16 @@
+.icon_bars{
+	display: none;
+}
+.aside_back{
+	display: none;
+}
+.news-box__text:hover{
+	top: -175px;
+}
+.news-box__box{
+	width: 100%;
+}
+.news-box{
+	margin: 10px 1%;
+	width: 31%;
+}

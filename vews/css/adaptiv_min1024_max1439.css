@@ -1,0 +1,30 @@
+.slider_img{
+	height: 357px;
+	width: 535px;
+}
+.index__block_info{
+	max-width: 960px;
+	min-width: 784px;
+	width: 100%;
+}
+.block_info__slider {
+    height: 357px;
+    width: 535px;
+    margin: 0px auto;
+}
+.news-box__box{
+	width: 100%;
+}
+.news-box{
+	margin: 10px 1%;
+	width: 48%;
+}
+.icon_bars{
+	display: none;
+}
+.aside_back{
+	display: none;
+}
+.news-box__text:hover{
+	top: -175px;
+}

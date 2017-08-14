@@ -1,0 +1,151 @@
+.block_info__vidjet{
+	width: 100%;
+	border:none;
+}
+.block_info__news{
+	width: 100%;
+	height: auto;
+}
+.aside{
+	overflow: hidden;
+	z-index: 1000;
+	width: 0px;
+}
+.wrap{
+	margin: 0px;
+}
+.icon_bars{
+	float: left;
+	font-size: 30px;
+    margin-top: 4px;
+    margin-right: 10px;
+}
+.content{
+	padding: 0px;
+}
+.aside_img{
+	display: none;
+}
+.header_options{
+	margin-left:0px;
+}
+.header_top_menu{
+	width: 100%;
+	float: left;
+}
+.search__form{
+	display: block;
+	float: left;
+	width: 100%;
+	margin-top: 5px;
+}
+.search__form_text{
+	width: 80%;
+	margin: 0px auto;
+	display: block;
+}
+.header-page__site-name{
+	width: 80%;
+	text-align: center;
+	margin: 0px auto;
+}
+.icon_bars{
+	width: 10%;
+	display: block;
+	margin-right: 0px;
+}
+.header_options_div{
+	float: right;
+	width: 10%;
+}
+.slider_img{
+	height: auto;
+	width: 100%;
+}
+.index__block_info{
+	width: 100%;
+}
+.block_info__slider{
+	width: 100%;
+	height: auto;
+}
+.news__more_informations{
+	width: 100%;
+}
+.content-box{
+	width: 100%;
+}
+.block_info__vidjet{
+	padding: 0px;
+}
+.vidjet__weather{
+	padding: 0px 15%;
+}
+.bx-pager{
+	display: none;
+}
+.bx-wrapper{
+	margin-bottom: 10px !important;
+}
+.vidjet__currency{
+	padding-bottom: 10px;
+}
+.header-page__site-name{
+	font-size: 160%;
+	margin-top: 2px;
+}
+.index_news__more_news{
+	width: 80%;
+	margin: 10px 10%;
+}
+.news-box{
+	width: 100%;
+	margin: 10px 0px;
+	height: 400px;
+}
+.news-box img{
+	top:-400px;
+	height: auto;
+}
+.news-box__text{
+	top:0px;
+	width: 101%;
+}
+.news-box__headline{
+	margin-top: 97px;
+}
+.news-box__short-text{
+	height: 200px;
+}
+.news__other_news{
+	border-left: none;
+}
+.footer__sothseti{
+	width: 100%;
+}
+.footer__info{
+	width: 100%;
+	text-align: center;
+}
+.footer__sothseti_ul{
+	width: 270px;
+    margin: 0px auto 10px;
+}
+.footer_vk_a, .footer_tw_a, .footer_in_a, .footer_fb_a, .footer_yt_a{
+	width: 40px;
+	height: 40px;
+	padding-top: 8px;
+	margin: 0px 7px;
+	font-size: 130%;
+}
+.news-box__headline{
+	font-size: 120%;
+}
+.reg__col50, .reg__col25{
+	width: 100%;
+	text-align: center;
+	height: 30px;
+}
+.regist-div__form{
+	width: 100%;
+}

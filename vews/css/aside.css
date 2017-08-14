@@ -1,0 +1,86 @@
+/*стили боковой панели*/
+.aside{
+	width: 220px;
+	position: fixed;
+	height: 100%;
+	font-family: Tahoma;
+	font-size: 110%;
+}
+.logo{
+	width: 80px;
+	display: block;
+	margin: 10px auto 0 auto;
+}
+.aside-form{
+	text-align: center;
+}
+.aside-buttons__input-text{
+	margin: 0 0 10px 0;
+	border: 2px solid;
+	transition: border-color 0.3s ease;
+	padding: 5px;
+	box-sizing: border-box;
+	width: 90%;
+}
+.aside-button__reg{
+	width: 200px;
+	border: 3px solid;
+	background: none;
+	padding: 15px 35px;
+	box-sizing: border-box;
+	margin: 10px auto;
+	display: block;
+	text-align: center;
+}
+.reg-buttons__input-button{
+	width: 40%;
+	border: 3px solid;
+	background: none;
+	box-sizing: border-box;
+	display: block;
+	float: left;
+	margin: 5px 5%;
+}
+.reg-buttons__wrong{
+	text-align: center;
+	font-size: 70%;
+	margin-bottom: 5px;
+}
+.aside-reg__name{
+	font-size: 120%;
+	text-align: center;
+}
+.reg-buttons__input-exit{
+	width: 100px;
+	border: 3px solid;
+	background: none;
+	box-sizing: border-box;
+	display: block;
+	transition: border-color 0.3s ease, color 0.3s ease;
+	margin: 10px auto;
+}
+.aside-hr{
+	border: 2px solid;
+	width: 200px;
+}
+nav > ul {
+	width: 225px;
+	list-style: none;
+	margin: 10px 0 10px 25px;
+	padding: 0;
+}
+.aside-nav__li{
+	padding: 5px 0;
+	box-sizing: border-box;
+}
+.aside_back{
+	display: block;
+	font-size: 60px;
+	margin: 10px;
+	text-align: center;
+}
+.aside_icon{
+	margin-right: 5px;
+	width: 20px;
+}
+/*конец стилей боковой панели*/

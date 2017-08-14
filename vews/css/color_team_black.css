@@ -1,0 +1,91 @@
+body{background-color: #36393e;}
+.wrap{color:#fff;}
+/*Боковая панель*/
+.aside{background-color: #1e2124;}
+.logo{opacity: 0.2;}
+.aside-hr{border-color: #4b4d4f;}
+.reg-buttons__input-exit{border-color: #4b4d4f;color: #4b4d4f;}
+.reg-buttons__input-exit:hover{border-color: #f04747;color: #f04747;}
+.aside-buttons__input-text{border-color: #4b4d4f;background-color: #36393e;color: #fff;}
+.aside-buttons__input-text:hover{border-color: #fff;}
+.reg-buttons__input-button{border-color: #4b4d4f;color: #fff;transition: border-color 0.3s ease;}
+.reg-buttons__input-button:hover{border-color: #fff;}
+.aside-button__reg{border-color: #4b4d4f;color: #fff; transition: border-color 0.3s ease;}
+.aside-button__reg:hover{border-color:#fff;}
+.aside-reg__name{color: #fff;}
+.aside-nav__a{color:#fff;transition: color 0.3s ease;}
+.aside-nav__a:hover{color: #6d6f72;}
+/*Конец боковой панели*/
+
+/*Шапка сайта*/
+.header-page{background-color: #282b30;}
+.header_options__menu_items{background-color: #1e2124;}
+.search__form_text{border-color: #1e2124;background-color: #36393e;}
+.header-page__site-name{color: #c3c3c5;}
+.header-page__site-name:hover{color: #fff;}
+.header_options__menu_items:before{border-bottom: 20px solid #1e2124;}
+.theme_change_button{background-color:#1e2124;color:#fff; transition: color 0.3s ease;}
+.icon_bars{color: #fff;}
+.theme_change_button:hover{color: #6d6f72;}
+/*Конец шапки сайта*/
+
+/*для регистрации*/
+.regist-div__form{background-color: #535559;}
+.regist-button__reg{background-color: #535559;}
+div[class="reg__col50"] input[type="text"],
+div[class="reg__col50"] input[type="password"]{color: black;}
+.footer__info{color: #4b4d4f;}
+/*конец регистрации*/
+
+/*Добавление новостей*/
+.add-news__submit{ background-color: #535559;}
+.add-news__form{background-color: #535559;}
+.wid100{color: black;}
+.add-news__form select{color: black;}
+/*Конец добавления новостей*/
+
+/*Главная страница*/
+.news-box__data-time{color: #fff;}
+.news-box__headline{background-color: rgba(83, 85, 89, 0.8);color: #fff;}
+.news-box__short-text{background-color: #535559;}
+.index_news__more_news{background-color: #36393e;border-color:#535559;color: #535559;}
+.index_news__more_news:hover{border-color:#43b581;color: #43b581;}
+.block_info__vidjet{border-color: #1e2124;}
+.vidjet__weather{border-color: #1e2124;}
+#gsCityHead, .gsAddInfo, .gsTemp, .col_h, .time, #colTemp{color:#fff;}
+/*Конец главной страницы*/
+
+/*Новость*/
+.news_hr{border-color: #1e2124;}
+.edit_news__button{border-color:#4b4d4f;color: #4b4d4f;}
+.edit_news__button:hover{border-color: #f04747;color: #f04747;}
+.delete_massage_news{color: #f04747;}
+.delete_news_button_yes, .delete_news_button_no{background-color: #36393e;color: #4b4d4f;border-color:#4b4d4f}
+.delete_news_button_yes:hover{color: #f04747;border-color:#f04747;}
+.delete_news_button_no:hover{color: #43b581;border-color:#43b581;}
+.news__other_news{border-color: #1e2124;}
+.news__tags{background-color: #4b4d4f;}
+.news__tag_name{color: #7289da;}
+.other_news__headline{color:#fff;}
+/*Конец новости*/
+
+/*Комментарии*/
+.add_comment__textarea{background-color: #4b4d4f;border-color:#1e2124;color:#fff;}
+.add_comment__input_submit{background-color: #36393e;border-color:#43b581;}
+.news__comments{background-color: #4b4d4f;}
+.news__comments_admin_button{color: #36393e;background-color: #4b4d4f;border-color:#36393e}
+.news__comments_admin_button:hover{color: #f04747;border-color: #f04747;}
+.news__comments_admin_button_save{color: #36393e;background-color: #4b4d4f;border-color:#36393e}
+.news__comments_admin_button_save:hover{color: #43b581;border-color: #43b581;}
+.add_comment__errore_not_regist{color: #f04747;}
+/*Конец комментариев*/
+
+/*Футер*/
+.footer{background-color: #282b30;}
+.footer_vk_a, .footer_tw_a, .footer_in_a, .footer_fb_a, .footer_yt_a{color:black;background-color: #535559;}
+.footer_vk_a:hover{background-color: #507299; color:#fff;}
+.footer_tw_a:hover{background-color: #1da1f2; color:#fff;}
+.footer_in_a:hover{background-color: #d10869; color:#fff;}
+.footer_fb_a:hover{background-color: #3765a3; color:#fff;}
+.footer_yt_a:hover{background-color: #cc181e; color:#fff;}
+/*Футер*/
